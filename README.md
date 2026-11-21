@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 88% &nbsp;·&nbsp; 11 days until ❄️ Winter
+  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 89% &nbsp;·&nbsp; 10 days until ❄️ Winter
 </p>
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
@@ -57,7 +57,7 @@ Hi, I’m **K4rim**! I love **cryptocurrencies**, **stocks**, **cryptography** a
 
 ## 💡 Fact of the day
 
-📈 The rule of 72: divide 72 by the yearly return in percent to estimate how many years it takes money to double.
+🔐 RSA, one of the first practical public-key cryptosystems, was published in 1977 by Rivest, Shamir and Adleman.
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
 
