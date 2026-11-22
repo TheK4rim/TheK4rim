@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 89% &nbsp;·&nbsp; 10 days until ❄️ Winter
+  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 90% &nbsp;·&nbsp; 9 days until ❄️ Winter
 </p>
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
@@ -57,7 +57,7 @@ Hi, I’m **K4rim**! I love **cryptocurrencies**, **stocks**, **cryptography** a
 
 ## 💡 Fact of the day
 
-🔐 RSA, one of the first practical public-key cryptosystems, was published in 1977 by Rivest, Shamir and Adleman.
+🤖 The term “artificial intelligence” comes from the 1955 proposal for the 1956 Dartmouth summer workshop.
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
 
