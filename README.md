@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 91% &nbsp;·&nbsp; 8 days until ❄️ Winter
+  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 92% &nbsp;·&nbsp; 7 days until ❄️ Winter
 </p>
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
@@ -57,7 +57,7 @@ Hi, I’m **K4rim**! I love **cryptocurrencies**, **stocks**, **cryptography** a
 
 ## 💡 Fact of the day
 
-🪙 Ethereum switched from proof-of-work to proof-of-stake in September 2022, an upgrade known as “The Merge”.
+📈 The Dow Jones Industrial Average was first published in 1896 and started with 12 companies.
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
 
