@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 95% &nbsp;·&nbsp; 5 days until ❄️ Winter
+  <b>🍂 Autumn edition</b> &nbsp;·&nbsp; 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 96% &nbsp;·&nbsp; 4 days until ❄️ Winter
 </p>
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
@@ -57,7 +57,7 @@ Hi, I’m **K4rim**! I love **cryptocurrencies**, **stocks**, **cryptography** a
 
 ## 💡 Fact of the day
 
-🤖 The transformer architecture behind today’s language models was introduced in the 2017 paper “Attention Is All You Need”.
+🪙 Bitcoin miners hash block headers with SHA-256, applied twice, until the result falls below a target.
 
 <img src="assets/autumn/divider.svg" width="100%" alt="">
 
